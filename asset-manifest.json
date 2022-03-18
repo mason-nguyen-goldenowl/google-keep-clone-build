@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3e63efb.css",
+    "main.js": "/static/js/main.37aa9c63.js",
+    "static/js/787.21c86a08.chunk.js": "/static/js/787.21c86a08.chunk.js",
+    "static/media/pngwing.com.png": "/static/media/pngwing.com.a8c416ff7e6fca1c9174.png",
+    "static/media/Account.svg": "/static/media/Account.740e87aab779555d0fb804e04b8eda0d.svg",
+    "index.html": "/index.html",
+    "static/media/Note.svg": "/static/media/Note.44e22c500f2b56d21eeac6d49d9b2af8.svg",
+    "static/media/Archive.svg": "/static/media/Archive.4b3a14b1808008d39d9c31a5fed43bc0.svg",
+    "static/media/trash.svg": "/static/media/trash.85517d28a6e179aa432fc1cc480a640b.svg",
+    "static/media/Remind.svg": "/static/media/Remind.d21cd9e95f2a59c7be259dfe0c01b8bc.svg",
+    "static/media/search.svg": "/static/media/search.37d1cd093a3d3626d59c75825be4cd3a.svg",
+    "static/media/archive.svg": "/static/media/archive.97fa750f092a6a7feb2eb874a035b77e.svg",
+    "static/media/time.svg": "/static/media/time.256b679531c34441d3372e7cafa1132e.svg",
+    "static/media/Edit.svg": "/static/media/Edit.db5c2ccc54d5c2b8b681c833034aac97.svg",
+    "static/media/reminder.svg": "/static/media/reminder.262ff36e10b93f56d849cd9488c5cf01.svg",
+    "static/media/refresh.svg": "/static/media/refresh.bf212cf825c89ea5c9efb39869d9a07c.svg",
+    "static/media/label.svg": "/static/media/label.39accd6b1dd7a21829adbd1badd2af16.svg",
+    "static/media/Trash.svg": "/static/media/Trash.e95ec16d9a972b27cbcc4daa10672e85.svg",
+    "static/media/delete.svg": "/static/media/delete.57eb39cdae4f082da6de2e129e99f2dc.svg",
+    "main.b3e63efb.css.map": "/static/css/main.b3e63efb.css.map",
+    "main.37aa9c63.js.map": "/static/js/main.37aa9c63.js.map",
+    "787.21c86a08.chunk.js.map": "/static/js/787.21c86a08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3e63efb.css",
+    "static/js/main.37aa9c63.js"
+  ]
+}
